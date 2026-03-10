@@ -1,0 +1,8 @@
+pytsk3
+yara-python
+volatility3
+python-magic
+jinja2
+rich
+click
+psutil
